@@ -1,0 +1,1 @@
+This folder is for API clients, storage, analytics, and other service layers.

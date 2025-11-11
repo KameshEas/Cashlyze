@@ -1,0 +1,1 @@
+This folder is for your domain models (TypeScript types/interfaces or classes).
